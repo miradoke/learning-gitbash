@@ -1,3 +1,7 @@
 This is git bash learning
 this is checking conflit learning222222
+<<<<<<< HEAD
 hello shamprina
+=======
+hello mira
+>>>>>>> 163083d2f101056c03eea2357f420083650f6a98
